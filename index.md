@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 惊雷 天塌地陷紫金锤
 
 You can use the [editor on GitHub](https://github.com/wsdx12138/-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
